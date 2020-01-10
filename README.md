@@ -1,6 +1,9 @@
 # My HackTheBox Write Ups
 
 My Bagde:
-<script src="https://www.hackthebox.eu/badge/121412"></script>
+
+<script 
+src="https://www.hackthebox.eu/badge/121412">
+</script>
 
 Active Boxes are password protected with the root flag.
